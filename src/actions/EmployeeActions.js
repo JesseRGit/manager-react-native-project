@@ -1,4 +1,4 @@
-import firebase from 'firebase';
+import firebase from '@firebase/app';
 import { Actions } from 'react-native-router-flux';
 import {
   EMPLOYEE_UPDATE,
