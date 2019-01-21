@@ -10,6 +10,11 @@ ManagerProject React Native program for Android or IOS. Project that uses Google
     react-native run-android  
     or  
     react-native run-ios
+    
+    #Login to with
+    test.user@hotmail.com
+    pass123
+    
 
 ## Review
 ![managerproject_main](https://user-images.githubusercontent.com/35838078/51174522-a571d900-18c0-11e9-8c1b-b6ffad0b3eab.png)
