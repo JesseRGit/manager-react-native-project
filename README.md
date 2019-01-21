@@ -1,6 +1,6 @@
 # manager-react-native-project
 
-ManagerProject React Native program for Android or IOS. Project that uses Google's Firebase to login. Lets you manage fictional employees. You can add, edit, fire and send employers draft day. Made following Udemy's The Complete React Native and Redux Course.
+ManagerProject, a React Native program for Android or IOS. Project that uses Google's Firebase to login. Lets you manage fictional employees. You can add, edit, fire and send employers draft day. Made following Udemy's The Complete React Native and Redux Course.
 
 ## Setup
     #Install dependencies   
